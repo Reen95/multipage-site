@@ -19,6 +19,6 @@ It is responsive, interactive, and deployed online.
 The site is live at:  
 👉 **[LIVE URL HERE]**
 
-(Replace this with your GitHub Pages)
+(github.com/Reen95)
 
 ---
