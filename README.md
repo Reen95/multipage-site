@@ -1,4 +1,4 @@
-# Multipage Site — Submission
+# ⭐ Multipage Site — Submission
 
 This is my **final multipage website project**.  
 It is responsive, interactive, and deployed online.
@@ -10,15 +10,16 @@ It is responsive, interactive, and deployed online.
 - Contact (`contact.html`)
 
 ## Features
-- Responsive layout (works on desktop & mobile)
-- Interactive menu toggle
-- Client-side form validation
-- Clean, modular code
+- ⭐ Responsive layout (works on desktop & mobile)
+- ⭐ Interactive menu toggle
+- ⭐ Client-side form validation
+- ⭐ Clean, modular code
 
 ## Deployment
 The site is live at:  
-👉 **[LIVE URL HERE]**
+👉 **https://Reen95.github.io/multipage-site/**
 
-(github.com/Reen95)
-
----
+## How to Run Locally
+1. Download or clone this repo  
+   ```bash
+   git clone https://github.com/Reen95/multipage-site.git
